@@ -2,7 +2,7 @@
   <artifact type="jar" build-on-make="true" name="garceta-ariketak:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/garceta_ariketak_jar</output-path>
     <root id="archive" name="garceta-ariketak.jar">
-      <element id="module-output" name="garceta-ariketak" />
+      <element id="module-output" name="Ariketa16" />
     </root>
   </artifact>
 </component>
